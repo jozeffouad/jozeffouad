@@ -1,4 +1,4 @@
-# Hi there, I'm [Jozef Fouad] 👋
+# Hi there, I'm Jozef Fouad👋
 
 ### 🚀 Flutter Developer | Dart Enthusiast | Mobile App Creator
 
