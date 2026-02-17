@@ -16,14 +16,6 @@ I am a passionate **Mobile Application Developer** specializing in building high
 
 ---
 
-### 📈 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jozeffouad&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jozeffouad&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jozef-fouad-8a636a399)
