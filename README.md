@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm [Jozef Fouad] 👋
 
-<!--
-**jozeffouad/jozeffouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Flutter Developer | Dart Enthusiast | Mobile App Creator
 
-Here are some ideas to get you started:
+I am a passionate **Mobile Application Developer** specializing in building high-quality, cross-platform apps using **Flutter & Dart**. I love turning complex problems into beautiful, user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+- **Languages:** Dart, Python
+- **Frameworks:** Flutter (Android, iOS, Web)
+- **State Management:** Provider / Bloc 
+- **Backend & Database:** Firebase
+- **Tools:** Git & GitHub, VS Code, Android Studio
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jozeffouad&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jozeffouad&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jozef-fouad-8a636a399)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jozeph2p@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+"I spend more time naming my variables than actually writing the code!" 😄
