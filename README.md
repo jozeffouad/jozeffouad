@@ -18,9 +18,9 @@ I am a passionate **Mobile Application Developer** specializing in building high
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jozeffouad&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jozeffouad&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jozeffouad&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jozeffouad&layout=compact&theme=radical)
 
 ---
 
