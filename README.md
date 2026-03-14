@@ -3,6 +3,10 @@
 ### 🚀 Flutter Developer | Dart Enthusiast | Mobile App Creator
 
 I am a passionate **Mobile Application Developer** specializing in building high-quality, cross-platform apps using **Flutter & Dart**. I love turning complex problems into beautiful, user-friendly applications.
+I feel empowered by my ability to learn and discover new things.
+Passionate about programming, I constantly strive to improve my skills as a software developer.
+My goal is to enjoy the journey of discovery, learning, and working at all times.
+I aim to develop useful, user-friendly, and scalable applications.
 
 ---
 
@@ -11,8 +15,8 @@ I am a passionate **Mobile Application Developer** specializing in building high
 - **Languages:** Dart, Python
 - **Frameworks:** Flutter (Android, iOS, Web)
 - **State Management:** Provider / Bloc 
-- **Backend & Database:** Firebase
-- **Tools:** Git & GitHub, VS Code, Android Studio
+- **Backend & Database:** Firebase, SQL, API
+- **Tools:** Git, GitHub, VS Code, Android Studio, Cursor, ChatGPT, Claude, Gemini
 
 ---
 
