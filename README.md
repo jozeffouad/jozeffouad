@@ -29,3 +29,10 @@ I aim to develop useful, user-friendly, and scalable applications.
 
 ### ⚡ Fun Fact
 "I spend more time naming my variables than actually writing the code!" 😄
+
+![](https://github-readme-stats.vercel.app/api?username=jozeffouad&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jozeffouad&layout=compact&theme=vision-glow)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jozeffouad&theme=black-ice)
+
