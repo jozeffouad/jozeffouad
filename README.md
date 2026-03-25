@@ -57,7 +57,6 @@ I love turning complex problems into beautiful, user-friendly applications.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jozeffouad&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozeffouad&layout=compact&theme=vision-glow" height="160">
 </p>
 
 <p align="center">
