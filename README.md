@@ -52,15 +52,3 @@ I love turning complex problems into beautiful, user-friendly applications.
 > "I spend more time naming my variables than actually writing the code!" 😄
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jozeffouad&show_icons=true&theme=radical" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jozeffouad&theme=black-ice" height="180">
-</p>
-
----
